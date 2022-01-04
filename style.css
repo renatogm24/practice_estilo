@@ -1,0 +1,26 @@
+h1,h2,h3{
+  padding: 5px 10px;
+  margin: 10px 5px;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+h1 span{
+  color: skyblue;
+}
+
+h2{
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+h3{
+  background-color: skyblue;
+  text-align: right;
+  text-decoration: underline;
+}
